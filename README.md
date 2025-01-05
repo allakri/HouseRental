@@ -2,10 +2,6 @@
 
 > A web application to help you find your next rental property.
 
-This is the main project from my [Next 14 From Scratch Course](https://www.traversymedia.com/nextjs-from-scratch)
-
-This is the second iteration of the app/course that uses server actions instead of API routes.
-
 The `_theme_files` folder contains the pure HTML files with Tailwind classes.
 
 <img src="/public/images/screen.jpg" />
@@ -87,7 +83,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
